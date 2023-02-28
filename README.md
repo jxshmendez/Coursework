@@ -1,5 +1,6 @@
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/jxshmendez/Coursework/main.yml>/<branch>?style=flat-square)
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/jxshmendez/Coursework/main.yml?branch=develop)
 
 ![workflow](https://github.com/jxshmendez/Coursework/actions/workflows/main.yml/badge.svg)
 
